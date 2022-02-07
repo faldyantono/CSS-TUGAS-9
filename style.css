@@ -1,0 +1,17 @@
+.borobudur{
+  z-index: -1;
+  size: cover;
+  position: fixed;
+}
+.div1{
+  z-index:1;
+  float: right;
+  position: relative;
+  background-color: white;
+  width: 800px;
+}
+.div2{
+  text-align: right;
+  float: right;
+  position: relative;
+}
